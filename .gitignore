@@ -1,0 +1,16 @@
+build/
+.vs/
+ui/sweetie/examples/example_win32_directx11/Release/
+ui/sweetie/examples/example_win32_directx11/Debug/
+ui/sweetie/examples/example_win32_directx11/x64/
+*.obj
+*.iobj
+*.pdb
+*.ipdb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.log
+*.vcxproj.user
+cat_hatsune_miku.glb
